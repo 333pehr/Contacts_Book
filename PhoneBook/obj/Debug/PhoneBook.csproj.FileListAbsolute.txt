@@ -1,0 +1,12 @@
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\sepeh\OneDrive\Desktop\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.AddorUpdateForm.resources
